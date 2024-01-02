@@ -16,4 +16,5 @@ Get weather information like temperature and weather conditions.
 3. API - Open weather app
 
 **SCREENSHOTS**
-![Uploading Peach and Orange Watercolor Art Hand Line Phone Wallpaper (2).png…]()
+![Peach and Orange Watercolor Art Hand Line Phone Wallpaper (2)](https://github.com/manvithapula/weather-app/assets/113161233/0997215e-48c5-4c0c-a85f-838f659d6b28)
+
