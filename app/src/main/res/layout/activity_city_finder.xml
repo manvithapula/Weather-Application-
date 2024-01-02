@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/catcity"
+    tools:context=".cityFinder">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/backgroundblur">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/backButton"
+        android:layout_width="36dp"
+        android:layout_height="38dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/left">
+
+    </ImageView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:hint="@string/enter_city_name"
+        android:fontFamily="@font/francois_one"
+        android:layout_marginLeft="30dp"
+        android:textSize="20sp"
+        android:background="@drawable/edittextdesign"
+        android:textColor="@color/black"
+        android:imeOptions="actionGo"
+        android:id="@+id/searchCity"
+        android:inputType="textAutoCorrect"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_marginRight="30dp">
+
+    </EditText>
+
+</RelativeLayout>
