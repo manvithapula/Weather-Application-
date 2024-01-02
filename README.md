@@ -1,0 +1,1 @@
+Weather App is a simple and intuitive application that provides real-time weather information for a given location. With a clean and user-friendly interface, users can quickly access current weather conditions and temparature
